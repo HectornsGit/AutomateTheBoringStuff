@@ -8,5 +8,5 @@ Ejercicios realizados durante mi aprendizaje con python.
 
 ## Instrucciones
 
-- Instala las dependencias requeridas para cada ejercicio.
--  Ejecuta el .py `python index.py`
+1. Instala las dependencias requeridas para cada ejercicio.
+1. Ejecuta el .py `python index.py`
